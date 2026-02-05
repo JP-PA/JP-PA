@@ -1,5 +1,5 @@
 ### Hola, mi nombre es Juan Pablo 👋
-
+##Desarrollador de software con experiencia en Python, PHP, JavaScript y bases de datos SQL/NoSQL. Apasionado por la automatización de procesos, la optimización de sistemas y la resolución de problemas. Experiencia en análisis de datos, soporte IT y soluciones en la nube. Busco aportar mi conocimiento en desarrollo backend y bases de datos para mejorar la eficiencia tecnológica en una empresa innovadora.
 <!--
 **JP-PA/JP-PA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
