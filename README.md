@@ -1,16 +1,76 @@
-### Hola, mi nombre es Juan Pablo 👋
-Desarrollador de software con experiencia en Python, PHP, JavaScript y bases de datos SQL/NoSQL. Apasionado por la automatización de procesos, la optimización de sistemas y la resolución de problemas. Experiencia en análisis de datos, soporte IT y soluciones en la nube. Busco aportar mi conocimiento en desarrollo backend y bases de datos para mejorar la eficiencia tecnológica en una empresa innovadora.
-<!--
-**JP-PA/JP-PA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Juan Pablo
 
-Here are some ideas to get you started:
+💻 Desarrollador de software enfocado en **backend y bases de datos**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo experiencia trabajando con **Python, PHP, JavaScript y SQL/NoSQL**, desarrollando soluciones para automatización de procesos, análisis de datos y optimización de sistemas.
+
+Me interesa especialmente:
+- Desarrollo backend
+- Arquitectura de software
+- Bases de datos
+- Automatización de procesos
+- Cloud y sistemas distribuidos
+
+Actualmente estoy aprendiendo y trabajando con:
+- Node.js
+- Desarrollo de APIs
+- Arquitectura de aplicaciones
+- Docker
+
+---
+
+# 🚀 Tecnologías
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-brown?logo=mariadb)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+
+---
+
+# 📂 Proyectos
+
+### 🏋️ Sistema de gestión para gimnasio
+Aplicación backend para gestionar:
+
+- mensualidades
+- productos
+- ingresos y gastos
+- notificaciones de vencimiento
+
+Tecnologías:
+Node.js • JavaScript • MariaDB
+
+---
+
+# 📜 Certificaciones
+
+![IoT](https://img.shields.io/badge/Curso-Introducción%20al%20Internet%20de%20las%20Cosas-green)
+
+---
+
+# 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JP-PA&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JP-PA&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Contacto
+
+📧 Email: tu-email-aqui  
+💼 LinkedIn: tu-linkedin-aqui
