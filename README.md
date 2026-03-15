@@ -58,7 +58,7 @@ Node.js • JavaScript • MariaDB
 
 # 📜 Certificaciones
 
-![IoT](https://img.shields.io/badge/Curso-Introducción%20al%20Internet%20de%20las%20Cosas-green)
+![IoT]([https://img.shields.io/badge/Curso-Introducción%20al%20Internet%20de%20las%20Cosas-green](https://www.credly.com/badges/bd14959a-aeec-4b54-89e8-179697b7ad1e/public_url))
 
 ---
 
@@ -72,5 +72,5 @@ Node.js • JavaScript • MariaDB
 
 # 📫 Contacto
 
-📧 Email: tu-email-aqui  
-💼 LinkedIn: tu-linkedin-aqui
+📧 Email: perezarevalojuanpablo17@gmail.com 
+💼 LinkedIn: (https://www.linkedin.com/in/juan-pablo-p%C3%A9rez-arevalo-9293a12b2/)
