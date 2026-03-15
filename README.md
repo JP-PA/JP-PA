@@ -58,8 +58,9 @@ Node.js • JavaScript • MariaDB
 
 # 📜 Certificaciones
 
-![IoT]([https://img.shields.io/badge/Curso-Introducción%20al%20Internet%20de%20las%20Cosas-green](https://www.credly.com/badges/bd14959a-aeec-4b54-89e8-179697b7ad1e/public_url))
-
+![IoT]<a href="https://www.credly.com/badges/bd14959a-aeec-4b54-89e8-179697b7ad1e/public_url">
+  <img src="introduction-to-iot.png" width="200">
+</a>
 ---
 
 # 📊 Estadísticas de GitHub
