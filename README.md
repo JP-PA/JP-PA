@@ -61,7 +61,7 @@ Node.js • JavaScript • MariaDB
 <a href="https://www.credly.com/badges/bd14959a-aeec-4b54-89e8-179697b7ad1e/public_url">
   <img src="introduction-to-iot.png" width="180">
 </a>
----
+
 
 # 📊 Estadísticas de GitHub
 
